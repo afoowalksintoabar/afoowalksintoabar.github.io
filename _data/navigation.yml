@@ -3,7 +3,7 @@ main:
   - title: "All about Pīnyīn"
     url: /pinyin-archive/
   - title: "Chīlema - Have you eaten?"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /conversation-archive/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

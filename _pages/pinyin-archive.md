@@ -3,7 +3,7 @@ layout: collection
 title: "Pīnyīn"
 collection: pinyin
 permalink: /pinyin-archive/
-author_profile: false
+author_profile: true
 ---
 
 **Pīnyīn** (拼音) is a type of Roman (Latin) script, used in mainland China, to map all those Chinese characters to their pronunciations.
