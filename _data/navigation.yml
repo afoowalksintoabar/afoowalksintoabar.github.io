@@ -2,6 +2,8 @@
 main:
   - title: "All about Pīnyīn"
     url: /pinyin-archive/
+  - title: "Common Words"
+    url: /words-archive/
   - title: "Chīlema - Have you eaten?"
     url: /conversation-archive/
   # - title: "About"

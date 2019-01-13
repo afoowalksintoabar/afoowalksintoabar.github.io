@@ -282,6 +282,9 @@ collections:
   pinyin:
     output: true
     permalink: /:collection/:path/
+  words:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -300,6 +303,14 @@ defaults:
   - scope:
       path: ""
       type: pinyin
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _words
+  - scope:
+      path: ""
+      type: words
     values:
       layout: single
       author_profile: true
