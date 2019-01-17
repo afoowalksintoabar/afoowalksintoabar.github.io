@@ -1,5 +1,5 @@
 ---
-title: "Words for Activities"
+title: "Activities"
 ---
 
  Chinese | Pīnyīn | English | Pronunciation | Tips
