@@ -8,7 +8,7 @@ title: "Food and Drink"
 鸡肉|jīròu|chicken meat|<audio controls src="/assets/audio/food/f-2.wav" class="audio-control" />|gee rho(ρ)
 汽水|qìshuǐ|fizzy drink|<audio controls src="/assets/audio/food/f-3.wav" class="audio-control" />|ch-ee sh-woo-ey
 牛奶|niúnǎi|milk|<audio controls src="/assets/audio/food/f-4.wav" class="audio-control" />|n-ee-u n-eye
-水|shuǐ|water|<audio controls src="/assets/audio/food/f-5.wav" class="audio-control" />|sh-woo-eh
+水|shuǐ|water|<audio controls src="/assets/audio/food/f-5.wav" class="audio-control" />|sh-woo-ey
 汉堡包|hànbǎobāo|hamburger|<audio controls src="/assets/audio/food/f-6.wav" class="audio-control" />|h-un b-ao b-ao
 早饭|zǎofàn|breakfast|<audio controls src="/assets/audio/food/f-7.wav" class="audio-control" />|z-au fun
 刀|dāo|knife|<audio controls src="/assets/audio/food/f-8.wav" class="audio-control" />|d-ow
