@@ -1,0 +1,347 @@
+Key,
+R,Candidates must be able to read and understand the word in Chinese characters at this level.
+"",Candidates will not have to read the word in Chinese characters at this level.
+"*","They must, however, know the pinyin and understand the word aurally. They"
+"",may also need to be able to say the word.
+"(blank)","When the Level 1 box is blank, the word is needed only at Level 2."
+Chinese,,Pinyin,,English,Level 1,Level 2
+"",,,Activities,,,
+"做饭",zuò fàn,,to cook,,R,R
+"吃饭",chī fàn,,to eat/have a meal,,R,R
+"看电视",kàn diànshì,,to watch television,,R,R
+"跑步",pǎobù,,"to run, to jog",,R,R
+"踢(足球)",tī (zúqiú),,to play (football),,R,R
+"足球",zúqiú,,football,,R,R
+"看电影",kàn diànyǐng,,see a film,,*,R
+"运动",yùndòng,,to exercise; sport,,*,R
+"用电脑",yòng diànnǎo,,to use the computer,,*,*
+"上网",shàng wǎng,,surf the net,,*,*
+"比赛",bǐsài,,to compete; competition,,*,*
+"打乒乓球",dǎ pīngpāngqiú,,to play ping pong,,*,*
+"打网球",dǎ wǎngqiú,,to play tennis,,*,*
+"游泳",yóuyǒng,,to swim,,*,*
+"打篮球",dǎ lánqiú,,to play basketball,,,*
+"骑马",qí mǎ,,to ride a horse,,,*
+"",,,Adjectives,,,
+"大",dà,,big,,R,R
+"好喝",hǎohē,,delicious/good to drink,,R,R
+"好吃",hǎochī,,delicious/good to eat,,R,R
+"好玩",hǎowán,,fun,,R,R
+"好",hǎo,,good,,R,R
+"新",xīn,,new,,R,R
+"小",xiǎo,,small,,R,R
+Chinese,Pinyin,English,Level 1,Level 2
+"有意思",yǒu yìsi,interesting,*,R
+"老",lǎo,old,*,R
+"美丽 / 漂亮",měilì/piàoliang,beautiful,*,*
+"无聊",wúliáo,boring,*,*
+"便宜",piányi,cheap,*,*
+"聪明",cōngmíng,clever,,*
+"贵",guì,expensive,,*
+"胖",pàng,fat,,*
+"高兴",gāoxìng,happy,,*
+"悲伤",bēishāng,sad,,*
+"矮",ǎi,short,,*
+"高",gāo,tall,,*
+"瘦",shòu,thin,,*
+"累",lèi,tired,,*
+"","Adverbs, prepositions, conjunctions",,,
+"在",zài,to be in/located in,R,R
+"不",bù/bú,no; not,R,R
+"很",hěn,very,*,R
+"非常",fēicháng,very,,R
+"跟",gēn,with,,R
+"也",yě,also,,R
+"和",hé,and,,R
+"比较",bǐjiào,quite,,*
+"但是",dànshì,but,,*
+"",The body,,,
+"手",shǒu,hand,R,R
+"胳膊",gēbo,arm,*,*
+"耳朵",ěrduo,ear,*,*
+"眼睛",yǎnjīng,eyes,*,*
+"脚",jiǎo,foot,*,*
+"腿",tuǐ,leg,*,*
+"嘴巴",zuǐba,mouth,*,*
+"鼻子",bízi,nose,*,*
+"",China and the world,,,
+"中国",Zhōngguó,China,R,R
+"北京",Běijīng,Beijing,R,R
+Chinese,Pinyin,English,Level 1,Level 2
+"汉语",Hànyǔ,Chinese,R,R
+"中文",Zhōngwén,Chinese,R,R
+"美国",Měiguó,America,*,R
+"英国",Yīngguó,Britain,*,R
+"法国",Fǎguó,France,*,R
+"上海",Shànghǎi,Shanghai,*,R
+"英语",Yīngyǔ,English,*,R
+"香港",Xiāng Gǎng,Hong Kong,*,*
+"伦敦",Lúndūn,London,*,*
+"故宫",Gùgōng,The Forbidden City,*,*
+"天安门",Tiānānmén,Tiananmen Square,*,*
+"黄河",Huáng Hé,Yellow River,*,*
+"美国人",Měiguórén,American person,,R
+"中国人",Zhōngguórén,Chinese person,,R
+"英国人",Yīngguórén,English person,,R
+"法国人",Fǎguórén,French person,,R
+"",Clothes,,,
+"帽子",màozi,hat,R,R
+"毛衣",máoyī,jumper,R,R
+"夹克",jiákè,jacket,*,*
+"衬衫",chènshān,shirt,*,*
+"鞋子",xiézi,shoes,*,*
+"裙子",qúnzi,skirt,*,*
+T 恤衫,tìxùshān,T shirt,*,*
+"袜子",wàzi,socks,*,*
+"裤子",kùzi,trousers,*,*
+"衣服",yīfu,clothing,,R
+"",Colours,,,
+"黑",hēi,black,R,R
+"蓝",lán,blue,R,R
+"绿",lǜ,green,R,R
+"红",hóng,red,R,R
+"白",bái,white,R,R
+"黄",huáng,yellow,R,R
+"",Directions,,,
+"上面",shàngmian,above/on,,R
+Chinese,Pinyin,English,Level 1,Level 2
+"下面",xiàmian,below/under,,R
+"前面",qiánmian,in front (of),,R
+"左边",zuǒbian,left,,*
+"右边",yòubian,right,,*
+"",Food and drink,,,
+"牛肉",niúròu,beef,R,R
+"鸡肉",jīròu,chicken meat,R,R
+"汽水",qìshuǐ,fizzy drink,R,R
+"牛奶",niúnǎi,milk,R,R
+"水",shuǐ,water,R,R
+"汉堡包",hànbǎobāo,hamburger,R,R
+"早饭",zǎofàn,breakfast,R,R
+"刀",dāo,knife,R,R
+"面包",miànbāo,bread,*,R
+"鸡蛋",jīdàn,chicken egg,*,R
+"咖啡",kāfēi,coffee,*,R
+"可乐",kělè,Coke,*,R
+"面条",miàntiáo,noodles,*,R
+"(米)饭",(mǐ)fàn,rice,*,R
+"茶",chá,tea,*,R
+"午饭",wǔfàn,lunch,*,R
+"晚饭",wǎnfàn,dinner,*,R
+"薯条",shǔtiáo,chips,*,*
+"巧克力",qiǎokèlì,chocolate,*,*
+"苹果汁",píngguǒzhī,apple juice,*,*
+"橙汁",chéngzhī,orange juice,*,*
+"筷子",kuàizi,chopsticks,*,*
+"叉",chāzi,fork,*,*
+"勺子",sháozi,spoon,*,*
+"饺子",jiǎozi,dumplings,,*
+"荔枝",lìzhī,lychee,,*
+"菜单",càidān,menu,,*
+"餐馆",cānguǎn,restaurant,,*
+"咸",xián,salty,,*
+"辣",là,spicy,,*
+"甜",tián,sweet,,*
+"春卷",chūnjuǎn,spring rolls,,*
+Chinese,Pinyin,English,Level 1,Level 2
+"服务员",fúwùyuán,waiter,,*
+"蛋糕",dàngāo,cake,,*
+"",Greetings and introductions,,,
+"你好",nǐ hǎo,hello,*,R
+"再见",zàijiàn,goodbye,*,R
+"谢谢",xièxie,thank you,*,R
+"你好吗?",Nǐ hǎo ma?,How are you?,*,R
+"我很好",Wǒ hěn hǎo.,I am well.,*,R
+"你叫什么?",Nǐ jiǎo shénme?,What are you called?,*,R
+"我叫...",Wǒ jiào....,I am called...,*,R
+"你几岁?",Nǐ jǐ suì?,How old are you?,*,R
+"我...岁",Wǒ ....suì.,I am .... years old.,*,R
+"你住在哪里?",Nǐ zhù zài nǎlǐ?,Where do you live?,*,R
+"我住在...",Wǒ zhù zài...,I live in...,*,R
+"你是谁?",Nǐ shì shéi?,Who are you?,*,R
+"我是...",Wǒ shì...,I am...,*,R
+"",Holidays and special occasions,,,
+"假期",jiàqī,holiday,R,R
+"海",hǎi,the sea,*,R
+"饭店",fàndiàn,hotel/restaurant,*,R
+"海滩",hǎitān,beach,*,*
+Chinese,Pinyin,English,Level 1,Level 2
+"生日",shēngrì,birthday,,R
+"卡片",kǎpiàn,card,,*
+"聚会",jùhuì,party,,*
+"礼物",lǐwù,present,,*
+"",Home and family,,,
+"妈妈",māma,mum,R,R
+"爸爸",bàba,dad,R,R
+"哥哥",gēge,elder brother,R,R
+"姐姐",jiějie,elder sister,R,R
+"弟弟",dìdi,younger brother,R,R
+"妹妹",mèimei,younger sister,R,R
+"家",jiā,home,R,R
+"客厅",kètīng,living room,R,R
+"沙发",shāfā,sofa,R,R
+"浴室",yùshì,bathroom/shower room,*,*
+"卧室",wòshì,bedroom,*,*
+"厨房",chúfáng,kitchen,*,*
+"床",chuáng,bed,*,*
+"桌子",zhuōzi,table/desk,*,*
+"椅子",yǐzi,chair,*,*
+"手机",shǒujī,mobile phone,*,*
+"朋友",péngyou,friend,,R
+"狗",gǒu,dog,,R
+"动物",dòngwù,animals,,*
+"玩具",wánjù,toy,,*
+"东西",dōngxi,thing,,*
+"","Numbers, time, date",,,
+"一",yī,1,R,R
+"二",èr,2,R,R
+"三",sān,3,R,R
+"四",sì,4,R,R
+"五",wǔ,5,R,R
+"六",liù,6,R,R
+"七",qī,7,R,R
+"八",bā,8,R,R
+"九",jiǔ,9,R,R
+"十",shí,10,R,R
+"十一...九十九",shí yī ... jiǔshíjiǔ,11...99,R,R
+"一百",yī bǎi,100,*,R
+"两",liǎng,"2 (before a measureword)",R,R
+"点",diǎn,o'clock,R,R
+"几点了?",jǐ diǎn le,What time is it?,R,R
+"几点钟?",jǐ diǎn zhōng?,What time is it?,*,*
+"星期",xīngqī,week,R,R
+"星期几?",xīngqī jǐ?,"What day of the week isit?",R,R
+"星期一",xīngqī yī,Monday,R,R
+"星期二",xīngqī èr,Tuesday,R,R
+"星期三",xīngqī sān,Wednesday,R,R
+"星期四",xīngqī sì,Thursday,R,R
+"星期五",xīngqī wǔ,Friday,R,R
+"星期六",xīngqī liù,Saturday,R,R
+Chinese,Pinyin,English,Level 1,Level 2
+"星期日",xīngqī rì,Sunday,*,R
+"天",tiān,day/sky,R,R
+"月",yuè,month/moon,R,R
+"几月?",jǐ yuè?,What month is it?,R,R
+"一月",yī yuè,January,R,R
+"二月",èr yuè,February,R,R
+"三月",sān yuè,March,R,R
+"四月",sì yuè,April,R,R
+"五月",wǔ yuè,May,R,R
+"六月",liù yuè,June,R,R
+"七月",qī yuè,July,R,R
+"八月",bā yuè,August,R,R
+"九月",jiǔ yuè,September,R,R
+"十月",shí yuè,October,R,R
+"十一月",shíyī yuè,November,R,R
+"十二月",shí’èr yuè,December,R,R
+"元",Yuán,Yuan/Chinese currency,R,R
+"个",gè,"(measure word forthings and people)",,R
+"件",jiàn,"(measure word forclothing)",,R
+"只",zhī,"(measure word for someanimals)",,R
+"",Places in town,,,
+"公园",gōngyuán,park,,R
+"商店",shāngdiàn,shop,,R
+"超市",chāoshì,supermarket,,R
+"邮局",yóujú,post office,,*
+"",Pronouns,,,
+"我",wǒ,I; me,*,R
+"你",nǐ,you,*,R
+"他",tā,he; him,*,R
+"她",tā,she; her,*,R
+"我们",wǒmen,we; us,*,R
+"我的",wǒ de,my,,R
+"你的",nǐ de,your,,R
+"他的/她的",tā de,his/hers,,R
+"我们的",wǒmen de,ours,,R
+"你们的",nǐmen de,your (plural),,R
+Chinese,Pinyin,English,Level 1,Level 2
+"他们的/她们的",tāmen de,their (male/female),,R
+"这里",zhè lǐ,here,*,R
+"那里",nà lǐ,there,*,R
+"里",lǐ,inside,*,R
+"那",nà,that,*,R
+"这",zhè,this,*,R
+"你们",nǐmen,you (plural),*,R
+"他们 / 她们",tāmen/tāmen,they (m/f); them,*,R
+"",Question words,,,
+"吗",ma,question particle,R,R
+"几",jǐ?,how many?,R,R
+"什么",shénme?,what?,*,R
+"哪里/儿",nǎlǐ/ nǎr?,where?,*,R
+"谁",shéi?,who?,*,R
+"多少",duōshǎo qián?,how much?,,R
+"哪个",nǎ gè?,which?,,R
+"怎么",zěnme?,how?,,R
+"",School and classroom,,,
+"包",bāo,bag,R,R
+"书",shū,book,R,R
+"上学",shàngxué,go to school,R,R
+"课",kè,lesson,R,R
+"笔",bǐ,pen,R,R
+"尺",chǐ,ruler,R,R
+"课本",kèběn,textbook,R,R
+"学生",xuésheng,student,*,R
+"老师",lǎoshī,teacher,*,R
+"放学",fàngxué,to finish school,*,*
+"作业",zuòyè,homework,*,*
+"数学",shùxué,maths,*,*
+"体育",tǐyù,PE,*,*
+"科学",kēxué,science,*,*
+"考试",kǎoshì,test/to test,*,*
+"学校",xuéxiào,school,,R
+"书桌",shūzhuō,desk,,*
+"图片",túpiàn,picture,,*
+Chinese,Pinyin,English,Level 1,Level 2
+"",Transport,,,
+"汽车",qìchē,car,,R
+"火车",huǒchē,train,,R
+"飞机",fēijī,plane,,R
+"开车",kāi chē,to drive,,R
+"坐火车",zuò huǒchē,to go by train,,R
+"坐飞机",zuò fēijī,to go by plane,,R
+"船",chuán,boat,,*
+"坐船",zuò chuán,to go by boat,,*
+"骑车",qí chē,to ride a bicycle,,*
+"走路",zǒu lù,to walk,,*
+"",Verbs,,,
+"去",qù,to go,R,R
+"有",yǒu,"have/has; there is/thereare",R,R
+"没有",méiyǒu,"do not/does not have;there is not/are not",R,R
+"喜欢",xǐhuan,to like,R,R
+"不喜欢",bù xǐhuan,do not/does not like,R,R
+"要",yào,to want,R,R
+"不要",bú yào,do not/does not want,R,R
+"买",mǎi,to buy,R,R
+"做",zuò,to do/make,R,R
+"喝",hē,to drink,R,R
+"吃",chī,to eat,R,R
+"起床",qǐchuáng,to get up,R,R
+"看",kàn,to watch,R,R
+"穿",chuān,to wear,*,R
+"是",shì,to be,*,R
+"叫",jiào,to be called,*,R
+"睡觉",shuìjiào,to sleep,*,R
+"住",zhù,to live,*,R
+"用",yòng,to use,*,*
+"会",huì,to be able to/can,,R
+"不会",bú huì,to not be able to/can’t,,R
+"说",shuō,to speak,,R
+"给",gěi,to give,,*
+"唱歌",chàng gē,to sing,,*
+Chinese,Pinyin,English,Level 1,Level 2
+"跳舞",tiào wǔ,to dance,,*
+"想要",xiǎng yào,would like,,*
+"",Weather,,,
+"风",fēng,wind,,R
+"冷",lěng,cold,,R
+"热",rè,hot,,R
+"里边",lǐbian,inside,,R
+"雨",yǔ,rain,,R
+"雪",xuě,snow,,R
+"外边",wàibian,outside,,*
+"太阳",tàiyáng,sun,,*
+"天气",tiānqì,weather,,*
+"",Additional words,,,
+"喜",xǐ,happy/ happiness,R,R
+"福",fú,lucky/ good fortune,R,R
+"马",mǎ,horse,R,R
+"女",nǚ,female,R,R
