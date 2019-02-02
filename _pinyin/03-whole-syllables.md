@@ -2,6 +2,20 @@
 title: "Whole Syllables"
 ---
 
+<table>
+<tr>
+<td>
+<img src="/assets/images/lion.jpg" alt="Forty four stone lions!" width="200"/>
+</td>
+<td>
+<div>Forty four stone lions!</div>
+<div>四十四只石狮子!</div>
+<div><audio controls src="/assets/audio/44-stone-lions.wav" class="audio-control" /></div>
+</td>
+</tr>
+</table>
+
+
 _Whole Syllables_ are some fixed combinations of consonants and vowels that have a **pre-designated** pronunciation. For these special syllables, it's not possible to derive its pronunciation from the comprising consonants and vowels - we will have to memorise their somewhat unnatural pronunciations.
 
 Fortunately, there are not many of them - only 16. :-)
