@@ -45,6 +45,6 @@ title: "Numbers, Time and Date"
 十一月|shíyī yuè|November|<audio controls src="/assets/audio/numbers/number-39.wav" class="audio-control" />
 十二月|shí’èr yuè|December|<audio controls src="/assets/audio/numbers/number-40.wav" class="audio-control" />
 元|Yuán|Yuan/Chinese currency|<audio controls src="/assets/audio/numbers/number-41.wav" class="audio-control" />
-个|gè|(measure word for^Mthings and people)|<audio controls src="/assets/audio/numbers/number-42.wav" class="audio-control" />
-件|jiàn|(measure word for^Mclothing)|<audio controls src="/assets/audio/numbers/number-43.wav" class="audio-control" />
-只|zhī|(measure word for some^Manimals)|<audio controls src="/assets/audio/numbers/number-44.wav" class="audio-control" />
+个|gè|(measure word for things and people)|<audio controls src="/assets/audio/numbers/number-42.wav" class="audio-control" />
+件|jiàn|(measure word for clothing)|<audio controls src="/assets/audio/numbers/number-43.wav" class="audio-control" />
+只|zhī|(measure word for some animals)|<audio controls src="/assets/audio/numbers/number-44.wav" class="audio-control" />
