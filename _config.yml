@@ -288,6 +288,9 @@ collections:
   conversation:
     output: true
     permalink: /:collection/:path/
+  learning-materials:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -322,6 +325,13 @@ defaults:
   - scope:
       path: ""
       type: conversation
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: learning-materials
     values:
       layout: single
       author_profile: true

@@ -6,6 +6,8 @@ main:
     url: /words-archive/
   - title: "Conversations - Have you eaten?"
     url: /conversation-archive/
+  - title: "Learning Materials"
+    url: /learning-materials-archive/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
